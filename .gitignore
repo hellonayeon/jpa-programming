@@ -1,0 +1,8 @@
+## IntelliJ ##
+.idea
+
+## H2 Database ##
+h2.mv.db
+
+## Java ##
+target
